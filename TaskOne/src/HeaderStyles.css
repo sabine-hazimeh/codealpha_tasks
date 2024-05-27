@@ -1,0 +1,10 @@
+.Header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Radio Canada Big', sans-serif; 
+    line-height: 1.5; 
+    letter-spacing: 1px; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
